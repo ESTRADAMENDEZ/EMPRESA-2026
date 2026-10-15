@@ -202,34 +202,7 @@
 </head>
 <body>
 
-  <!--<div class="formulario">
-    <h2>Registro de Visitantes</h2>
-    <form action="procesar_registro.php" method="POST">
-      <label for="nombre">Nombre completo:</label>
-      <input type="text" id="nombre" name="nombre" required>
-
-      <label for="correo">Correo electrónico:</label>
-      <input type="email" id="correo" name="correo" required>
-
-      <label for="motivo">Motivo de la visita:</label>
-      <textarea id="motivo" name="motivo" rows="3" required></textarea>
-
-      <label for="fecha">Fecha de entrada:</label>
-      <input type="date" id="fecha" name="fecha" required>
-
-      <label for="hora">Hora de entrada:</label>
-      <input type="time" id="hora" name="hora" required>
-
-      <label for="identificacion">Número de identificación (DUI, carnet, etc.):</label>
-      <input type="text" id="identificacion" name="identificacion">
-
-      <button type="submit">Registrar</button>
-    </form>
-  </div> -->
-
-<!--<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf6LXQ_qTlCHSNC-ZgxwdEln37_t5v2Hh6ocDeD2i2wPafUCA/viewform?embedded=true" width="640" height="568" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>-->
-
-https://docs.google.com/spreadsheets/d/13HsCcHAgIrKN511fNy1tgMPfpdHYnRiSEOrYHAERCoE/edit?usp=sharing
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScRoDYFJBJDN6UzFqMlF9ENXGMae0u1c1OW3YmOfvkoPuKSRw/viewform?embedded=true" width="640" height="858" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
 
 </body>
 </html>
